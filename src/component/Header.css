@@ -1,0 +1,56 @@
+nav{
+    background-color: rgb(81, 178, 145);
+    border-bottom: 1px solid #06182c;
+}
+
+
+
+.headernav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 45px;
+}
+
+
+.linkchoice{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h1{
+    padding-right: 15%;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.Link{
+    margin-right: 50px;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.goreview{
+  margin-left: 240px;
+  padding: 10px 10px;
+  text-decoration: none;
+  cursor: pointer;
+  border: 1px solid #e9eef1; /* ボーダーカラー */
+  color: #dde5ea; /* テキストカラー */
+  background-color: #4e55b4; /* 背景カラー */
+  border-radius: 5px; /* 角丸 */
+  transition: background-color 0.3s ease, color 0.3s ease; /* ホバーエフェクトのトランジション */
+}
+
+.goreview:hover{
+    background-color: aquamarine;
+    color: #160202;
+}
+
+
+.svg{
+    margin-right: 5px;
+}

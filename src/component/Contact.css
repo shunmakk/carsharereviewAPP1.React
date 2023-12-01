@@ -1,0 +1,62 @@
+.mainContact{
+    margin-left: 20px;
+}
+
+
+.formmain{
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 50px;
+  text-align: center;
+  padding: 70px;
+  background-color: azure;
+}
+
+
+.arr{
+    display: flex;
+    gap: 100px;
+    margin-bottom: 10px;
+}
+
+.arr1{
+  display: flex;
+  gap:  38px;
+  margin-bottom: 10px;
+}
+
+.arr2{
+  display: flex;
+  gap:  115px;
+  margin-bottom: 10px;
+}
+
+textarea{
+    max-width: auto;
+    width: 800px;
+    resize: none;
+}
+
+.input{
+    width: 300px;
+}
+
+
+.btnmain{
+    margin-top: 30px;
+}
+
+.btnsub{
+   margin-bottom: 10px;
+   width: 150px;
+   background-color: rgb(154, 141, 241);
+   color: white;
+   border-radius: 3px;
+}
+
+.btncancel{
+    width: 150px;
+    border-radius: 3px;
+}

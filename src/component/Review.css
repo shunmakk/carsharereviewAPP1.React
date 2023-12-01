@@ -1,0 +1,61 @@
+.createreview{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.createbg{
+    background-color: azure;
+    padding: 30px 30px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 490px;
+    width: 500px;
+    gap: 15px;
+}
+
+.titlereview{
+  color: darkslategray;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.selectcompany{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+.reviewpoint{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.review300{
+    margin-left: 15px;
+    margin-top: 5px;
+    width: 500px;
+    height: 100px;
+    resize: none;
+}
+
+.nameatreview{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+
+.btnreview{
+    width: 200px;
+    background-color: darkcyan;
+    color: whitesmoke;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 160px;
+    padding: 10px 10px;
+    margin-top: 10px;
+}

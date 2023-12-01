@@ -1,0 +1,8 @@
+.footer{
+    background-color: gray;
+    color: aliceblue;
+    height: 150px;
+    width: 100vw; /* 画面幅いっぱいを取る */
+    max-width: 100%; /* 親要素の幅いっぱいを取る */
+
+}
